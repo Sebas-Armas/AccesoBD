@@ -11,6 +11,3 @@ hasta el despliegue en dispositivos móviles):
 
 Turorial Para mayor comprensión:
   - https://devdactic.com/ionic-4-sqlite-queries/
-
-Código Git:
-  - https://github.com/Sebas-Armas/AccesoBD
